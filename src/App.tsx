@@ -82,7 +82,7 @@ function App() {
   }, [currentSection]);
 
   useEffect(() => {
-    setCurrentSection(2);
+    setCurrentSection(4);
   }, []);
 
   return (
